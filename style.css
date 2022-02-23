@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: lightgray;
+    height: 40px;
+    padding: 3px 0px 3px 15px;
+}
+
+#logo {
+    height: 100%;
+    vertical-align: middle;
+}
+
+#navigation, #navigation > li {
+    display: inline;
+
+}
+
+#navigation li {
+    margin-left: 150px;
+}
+
+h2 {
+    color: #315be6;
+    text-align: center;
+}
+
+#calltoaction {
+    background-color: #315be6;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 5px 10px 5px;
+    margin: 0 auto;
+    display: block;
+}
